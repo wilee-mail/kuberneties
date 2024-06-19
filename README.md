@@ -1,0 +1,2 @@
+# kuberneties
+Config for Kuberneties
